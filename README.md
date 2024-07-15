@@ -47,7 +47,7 @@ Contributions are welcomed. Please include proof of the changes made in VS Code 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ducoday12345/djangogirls/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [Duc Minh Nguyen](mailto:your.email@example.com).
+For any inquiries, please contact [Duc Minh Nguyen](mailto:ducoday12345@gmail.com).
 
 ## Further Reading
 
